@@ -4,5 +4,7 @@ Welcome! This is a repository you can safely make commits to and play around wit
 
 S2DS Virtual October 2019 Participants:
 
+
+luca lamoni editing this
 -- Darine Abdelahad
 -- 
